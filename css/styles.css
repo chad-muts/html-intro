@@ -1,0 +1,21 @@
+#chelsea {
+    color:slateblue;
+}
+#coldpalmer {
+    background-color: tan;
+    color: aqua;
+    border: solid dodgerblue;
+}
+.nkunku {
+    background-color: brown ;
+    opacity: 0.7;
+    margin: 10px 30px 70px 100px;
+}
+p {
+    margin: 20px 70px;
+}
+/*
+body {
+    background-image: url("/images/backgroundimage.jpg");
+
+} */
